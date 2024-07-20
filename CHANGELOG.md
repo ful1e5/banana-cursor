@@ -11,6 +11,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -   The 'bitmaps' directory has been removed from the git repository. You can now generate the PNG files using `yarn render` or download them from the release assets.
 
+### What's New?
+
+-   Banana cursor is now customizable
+-   Support `256px` cursors
+
+### Changes
+
+-   build script renamed (`release.sh` -> `build.sh`)
+-   Use 'xz' for better compression in `build.sh` script
+-   De-framed animated cursors to static SVG files
+
 ## [v1.0.0] - 02 November 2022
 
 ### Added
