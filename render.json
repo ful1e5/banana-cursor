@@ -1,0 +1,14 @@
+{
+  "Banana": {
+    "dir": "svg",
+    "out": "bitmaps/Banana"
+  },
+  "Banana-Red": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Red",
+    "colors": [
+      { "match": "#FCD900", "replace": "#FF0000" },
+      { "match": "#6D3C1B", "replace": "#000000" }
+    ]
+  }
+}
