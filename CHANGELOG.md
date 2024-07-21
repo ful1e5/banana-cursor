@@ -11,10 +11,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -   The 'bitmaps' directory has been removed from the git repository. You can now generate the PNG files using `yarn render` or download them from the release assets.
 
+-   The `build.toml` file has been removed. Instead, the cursor build configurations are now distributed according to platforms within the `configs` directory:
+    -   `configs/x.build.toml`: Used to build XCursor.
+    -   `configs/win_rg.build.toml`: Used to build regular size Windows cursors.
+    -   `configs/win_lg.build.toml`: Used to build large size Windows cursors.
+    -   `configs/win_xxl.build.toml`: Used to build extra large size Windows cursors.
+
 ### What's New?
 
 -   Banana cursor is now customizable
 -   Support `256px` cursors
+-   Official Distributing `16` and `20` XCursors
+-   Multi Resolution Windows Cursors
+-   Attach version meta-data inside cursor packages
+-   Using [cbmp v1.1.1](https://github.com/ful1e5/cbmp/tree/v1.1.1) for rendering cursor bitmaps.
 
 ### Changes
 

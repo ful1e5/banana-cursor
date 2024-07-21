@@ -1,0 +1,133 @@
+[theme]
+name = "Banana-Extra-Large"
+comment = "The Banana Extra Large Windows Cursor"
+website = "https://www.github.com/ful1e5/banana-cursor"
+
+[config]
+bitmaps_dir = ''      # This config will assigned with `ctgen -d <path>`
+out_dir = '../themes'
+platforms = 'windows'
+
+
+[cursors]
+[cursors.fallback_settings]
+win_sizes = [32, 48, 64, 96, 128]
+x_hotspot = 128
+y_hotspot = 128
+win_delay = 1
+
+[cursors.all-scroll]
+png = 'all-scroll.png'
+win_name = 'Move'
+
+[cursors.bd_double_arrow]
+png = 'bd_double_arrow.png'
+x_hotspot = 128
+y_hotspot = 130
+win_name = 'Dng1'
+
+[cursors.cross]
+png = 'cross.png'
+win_name = 'Cross'
+
+[cursors.dnd_no_drop]
+png = 'dnd_no_drop.png'
+win_name = 'Unavailable'
+
+[cursors.fd_double_arrow]
+png = 'fd_double_arrow.png'
+x_hotspot = 127
+y_hotspot = 129
+win_name = 'Dng2'
+
+[cursors.hand1]
+png = 'hand1.png'
+x_hotspot = 63
+y_hotspot = 45
+win_name = 'Pan'
+
+[cursors.hand2]
+png = 'hand2.png'
+x_hotspot = 39
+y_hotspot = 45
+win_name = 'Link'
+
+[cursors.left_ptr]
+png = 'left_ptr.png'
+x_hotspot = 52
+y_hotspot = 50
+win_name = 'Pointer'
+
+[cursors.move]
+png = 'move.png'
+x_hotspot = 52
+y_hotspot = 50
+win_name = 'Grabbing'
+
+[cursors.left_ptr_watch]
+png = 'left_ptr_watch-*.png'
+x_hotspot = 52
+y_hotspot = 50
+win_sizes = 96
+win_name = 'Work'
+
+[cursors.pencil]
+png = 'pencil.png'
+x_hotspot = 51
+y_hotspot = 205
+win_name = 'Handwriting'
+
+[cursors.question_arrow]
+png = 'question_arrow.png'
+x_hotspot = 34
+y_hotspot = 47
+win_name = 'Help'
+
+[cursors.right_ptr]
+png = 'right_ptr.png'
+x_hotspot = 204
+y_hotspot = 49
+win_name = 'Alternate'
+
+[cursors.sb_h_double_arrow]
+png = 'sb_h_double_arrow.png'
+win_name = 'Horz'
+
+[cursors.sb_v_double_arrow]
+png = 'sb_v_double_arrow.png'
+win_name = 'Vert'
+
+[cursors.wait]
+png = 'wait-*.png'
+x_hotspot = 50
+y_hotspot = 52
+win_sizes = 96
+win_name = 'Busy'
+
+[cursors.xterm]
+png = 'xterm.png'
+win_name = 'Text'
+
+[cursors.zoom-in]
+png = 'zoom-in.png'
+x_hotspot = 119
+y_hotspot = 117
+win_name = 'Zoom-in'
+
+[cursors.zoom-out]
+png = 'zoom-out.png'
+x_hotspot = 119
+y_hotspot = 119
+win_name = 'zoom-out'
+
+[cursors.person]
+png = "person.png"
+x_hotspot = 34
+y_hotspot = 47
+win_name = "Person"
+
+[cursors.pin]
+png = "pin.png"
+x_hotspot = 34
+y_hotspot = 47
+win_name = "Pin"

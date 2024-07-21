@@ -3,12 +3,12 @@
     "dir": "svg",
     "out": "bitmaps/Banana"
   },
-  "Banana-Red": {
+  "Banana-Green": {
     "dir": "svg",
-    "out": "bitmaps/Banana-Red",
+    "out": "bitmaps/Banana-Green",
     "colors": [
-      { "match": "#FCD900", "replace": "#FF0000" },
-      { "match": "#6D3C1B", "replace": "#000000" }
+      { "match": "#FCD900", "replace": "#00FF00" },
+      { "match": "#6D3C1B", "replace": "#002211" }
     ]
   }
 }
