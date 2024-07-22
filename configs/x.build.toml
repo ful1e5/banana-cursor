@@ -14,7 +14,7 @@ platforms = "x11"
 x11_sizes = [16, 20, 22, 24, 28, 32, 40, 48, 56, 64, 72, 80, 88, 96]
 x_hotspot = 128
 y_hotspot = 128
-x11_delay = 10
+x11_delay = 20
 
 [cursors.all-scroll]
 png = "all-scroll.png"
