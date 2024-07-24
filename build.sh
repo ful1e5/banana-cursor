@@ -32,6 +32,8 @@ fi
 declare -A names
 names["Banana"]=$(with_version "The Banana")
 names["Banana-Green"]=$(with_version "The Green Banana")
+names["Banana-Blue"]=$(with_version "The Blue Banana")
+names["Banana-Red"]=$(with_version "The Red Banana")
 
 # Cleanup old builds
 rm -rf themes bin

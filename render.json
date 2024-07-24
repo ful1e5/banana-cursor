@@ -7,8 +7,24 @@
     "dir": "svg",
     "out": "bitmaps/Banana-Green",
     "colors": [
-      { "match": "#FCD900", "replace": "#00FF00" },
-      { "match": "#6D3C1B", "replace": "#002211" }
+      { "match": "#FCD900", "replace": "#54F851" },
+      { "match": "#6D3C1B", "replace": "#0C2608" }
+    ]
+  },
+  "Banana-Blue": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Blue",
+    "colors": [
+      { "match": "#FCD900", "replace": "#64CDCD" },
+      { "match": "#6D3C1B", "replace": "#0E2026" }
+    ]
+  },
+  "Banana-Red": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Red",
+    "colors": [
+      { "match": "#FCD900", "replace": "#E16C6C" },
+      { "match": "#6D3C1B", "replace": "#1B0707" }
     ]
   }
 }
