@@ -1,7 +1,7 @@
 #!/bin/bash
 # A script for preparing binaries of Banana Cursors, created by Abdulkaiz Khatri.
 
-version="v2.0.1"
+version="v2.0.0"
 
 error() (
   set -o pipefail
