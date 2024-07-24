@@ -18,7 +18,10 @@ A cursor was requested by [u/JMT37](https://www.reddit.com/user/JMT37/). It is t
 
 ---
 
-![Banana](https://imgur.com/pCoon2Q.png)
+![Banana](https://github.com/user-attachments/assets/02ae34f7-f555-447a-aeab-35297d0711ac)
+![Banana Green](https://github.com/user-attachments/assets/7ca834fd-369d-4c09-956d-dd7b15177c2a)
+![Banana Blue](https://github.com/user-attachments/assets/4af7e734-c2d3-4cf6-9986-68b44f7e1ea2)
+![Banana Red](https://github.com/user-attachments/assets/19316c10-1bca-424e-a85f-7472a2080af4)
 
 ## Cursor Sizes
 
@@ -53,8 +56,23 @@ A cursor was requested by [u/JMT37](https://www.reddit.com/user/JMT37/). It is t
 
 ### Banana
 
--   Outline Color - `#6D3C1B` (Brown)
 -   Base Color - `#FCD900` (Yellow)
+-   Outline Color - `#6D3C1B` (Brown)
+
+### Banana Green
+
+-   Base Color - `#54F851` (Green)
+-   Outline Color - `#0C2608` (Dark Green)
+
+### Banana Blue
+
+-   Base Color - `#64CDCD` (Blue)
+-   Outline Color - `#0E2026` (Dark Blue)
+
+### Banana Red
+
+-   Base Color - `#E16C6C` (Red)
+-   Outline Color - `#1B0707` (Dark Red)
 
 ## How to get it
 

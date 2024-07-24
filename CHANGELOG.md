@@ -19,7 +19,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### What's New?
 
--   Banana cursor is now customizable
+-   Banana cursor is now customizable 🎊
+-   Banana Green 🎊
+-   Banana Blue 🎊
+-   Banana Red 🎊
 -   Support `256px` cursors
 -   Official Distributing `16` and `20` XCursors
 -   Multi Resolution Windows Cursors
