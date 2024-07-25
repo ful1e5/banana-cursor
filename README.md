@@ -122,6 +122,8 @@ Run the `uninstall.bat` script packed with the `.zip` archive
 3. Go to `Cursors` folder and click on `Schemes` folder - all the available custom cursors that are
    installed will be listed here.
 4. **Right Click** on the name of cursor file you want to uninstall; for eg.: _Banana Cursors_ and
+   click `Delete`.
+5. Click '**yes**' when prompted.
 
 ## Build From Source
 
