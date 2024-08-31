@@ -260,7 +260,7 @@ ctgen configs/win_xl.build.toml -d "bitmaps/Banana-Solarized-Light" -n "Banana-S
 ###### Banana Dracula
 
 ```bash
-npx cbmp -d "svg" -o "bitmaas/Banana-Dracula" -bc "#282a36" -oc "#f8f8f2"
+npx cbmp -d "svg" -o "bitmaps/Banana-Dracula" -bc "#282a36" -oc "#f8f8f2"
 
 ctgen configs/x.build.toml -d "bitmaps/Banana-Dracula" -n "Banana-Dracula" -c "Dracula Banana XCursors."
 ctgen configs/win_rg.build.toml -d "bitmaps/Banana-Dracula" -n "Banana-Dracula" -c "Dracula Banana Windows Regular Cursors."
