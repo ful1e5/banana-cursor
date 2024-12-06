@@ -88,7 +88,7 @@ You can download latest `stable` & `development` releases from
 **Installation:**
 
 ```bash
-tar -xvf Banana.tar.gz                   # extract `Banana.tar.gz`
+tar -xvf Banana.tar.xz                   # extract `Banana.tar.xz`
 mv Banana ~/.icons/                      # Install to local users
 sudo mv Banana /usr/share/icons/         # Install to all users
 ```
